@@ -13,7 +13,7 @@
   
   body{
     background: var(--Black);
-    font-family: 'Times New Roman', Times;
+    font-family: 'Arial', Times;
     color: white;
   }
   
@@ -87,4 +87,13 @@
 
   .botao i{
     margin-right: 8px;
+  }
+
+  .box-filme{
+    height: 100%;
+    width: 100%;
+  }
+
+  .carrosel-filmes{
+    margin-top: 5px;
   }
